@@ -1,0 +1,7 @@
+G:\Interview Logic\ReadingTextFile\ReadingTextFile\bin\Debug\ReadingTextFile.exe.config
+G:\Interview Logic\ReadingTextFile\ReadingTextFile\bin\Debug\ReadingTextFile.exe
+G:\Interview Logic\ReadingTextFile\ReadingTextFile\bin\Debug\ReadingTextFile.pdb
+G:\Interview Logic\ReadingTextFile\ReadingTextFile\obj\Debug\ReadingTextFile.csprojResolveAssemblyReference.cache
+G:\Interview Logic\ReadingTextFile\ReadingTextFile\obj\Debug\ReadingTextFile.csproj.CoreCompileInputs.cache
+G:\Interview Logic\ReadingTextFile\ReadingTextFile\obj\Debug\ReadingTextFile.exe
+G:\Interview Logic\ReadingTextFile\ReadingTextFile\obj\Debug\ReadingTextFile.pdb
